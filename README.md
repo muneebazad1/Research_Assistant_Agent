@@ -35,10 +35,10 @@ Today, a full **Data Ingestion Pipeline** was implemented and an advanced workfl
 **Progess:**
 Build the Research & Analysis Agent which does analysis of provided data using intelligent tools and also answer queries of users using RAG pipeline
 
-
-
 ---
-
+### **Day 4**
+**Progess**
+Improved the ETL Pipeline by refractoring its architecture on LangGraph framework which given more control, and sustainability to ETL Pipeline.
 ## 🧩 Planned Architecture
 
       ┌────────────────────┐
@@ -86,6 +86,7 @@ The project will evolve daily, and the README will be updated as progress is mad
 **Day 1:** Initial Colab workflow with 2 functional tools + 1 planned.  
 **Day 2:** Implemented Automatic ETL Pipeline which included Data Orchestration Agent and its supported Tools.
 **Day 3:** Implemented Base R&A Agent which will take the ingested Data and provide the research and further analysis based on intelligent Tools.
+**Day 4:** Implemented ETL Pipeline through LangGraph workflow
 
 
 ---
